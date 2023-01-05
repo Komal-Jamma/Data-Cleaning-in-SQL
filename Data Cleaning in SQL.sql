@@ -101,7 +101,7 @@ Order by PropertyAddress
 
 Select * From PortfolioProject..Nashville_Data_Cleaning
 
---Dleting non required columns
+--Deleting non required columns
 
 Select * From PortfolioProject..Nashville_Data_Cleaning
 
